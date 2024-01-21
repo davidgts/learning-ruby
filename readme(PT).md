@@ -6,6 +6,7 @@
 - Instalando o Ruby [CLIQUE AQUI👈](https://www.youtube.com/watch?v=XSxrwc6ds28)
 - Curso gratuito UDEMY
 [CLIQUE AQUI👈](https://www.udemy.com/course/ruby-para-iniciantes/)
+- Playlist OneBitcode Curso de Ruby [CLIQUE AQUI👈](https://www.youtube.com/watch?v=2js9Q_BMD-8&list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ)
 - Tutorial  Mano Deyvin (Urubu do pix) [CLIQUE AQUI👈](https://www.youtube.com/watch?v=pVUh3ast1r4)
 
 
