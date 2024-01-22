@@ -19,7 +19,7 @@ Criar um array com informações mistas int, string, boolean e imprimir na tela.
 ## [Exercicio 3] ✅
 Criar uma calculadora simples(Soma subitração, divisão, multiplicação)
 
-## [Exercicio 4] 
+## [Exercicio 4] ✅
 
 Agenda de contatos, o contato haverá as seguintes informações
 - ID
@@ -28,3 +28,13 @@ Agenda de contatos, o contato haverá as seguintes informações
 - EMAIL (OPCIONAL)
 
 e haverá as funcões de Cadastrar, Editar, Excluir e Ler
+
+## [Exercicio 5] 
+
+$ Bundler init
+
+Edita o arquivo Gemfile
+
+$ Bundler install
+
+Instalar e Utiliza a gem de validação CPF_CNPJ
